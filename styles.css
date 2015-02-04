@@ -87,3 +87,37 @@
 		article .content {
 		  padding: 50px 0;
 		}
+		
+		
+		article .content .wrap h2{
+			text-align:center;
+			font-size:18px;
+		}
+		
+		article .content .wrap h3{
+			font-size:16px;
+		}
+		
+		.wrap ul {
+		  font-family: Trebuchet MS;
+		}
+		
+		.wrap li b {
+		  color: #f73c3c;
+		}
+		
+		.wrap li a {
+		  color: #5EE785;
+		}
+		.graphs {
+			margin: 10px;
+		}
+		.graphs img {
+		  margin: 10px;
+		  max-width: 95%;
+		}
+		.graphs p {
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+}
